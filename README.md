@@ -35,15 +35,6 @@ O objetivo principal foi **combinar visão computacional e aprendizado de máqui
 - ✅ **Cancelamento**: gesto de CANCEL limpa seleções e desativa poderes  
 - ✅ **Feedback visual**: caixas pulsantes, labels e animações dinâmicas  
 
----
-
-## 📈 Demonstrações Visuais
-
-### 🌀 ROOM Ativado
-*(imagem ilustrativa do efeito ROOM)*
-
-### ⚡ SHAMBLES em Ação
-*(imagem ilustrativa do efeito SHAMBLES)*
 
 ---
 
